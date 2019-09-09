@@ -1,0 +1,2 @@
+# BlobSimpleFactoryDemo
+BlobSimpleFactoryDemo 简单工厂模式Demo
